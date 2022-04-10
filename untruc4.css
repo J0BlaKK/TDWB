@@ -1,0 +1,71 @@
+h1,h2,h3,h4,h5,h6,p,ul,li,button
+{
+    font-family: Pixellari;
+
+}
+
+body, html
+{
+    
+    height:  100%;
+}
+
+.box {
+    display: grid;
+    place-items: center;
+    height:  100%;
+
+}
+
+.boutton
+{
+     height: 350px;
+     width: 620px;
+     color: black;
+     background-color: white;
+     font-size: 100px;
+     border: groove;
+     border-color: black;
+     border-radius: 200px;
+     text-align: center;
+
+}
+
+.boutton:hover 
+{
+     border-color: lightgreen;
+
+}
+
+.boutton:active
+{
+    border-color: darkred;
+}
+
+body{
+
+    background-image: url("images/telechargestp.png");
+}
+
+.dede
+{
+     height: 75px;
+     width: 175px;
+     color: red;
+     background-color: white;
+     border: groove;
+     border-color: black;
+     border-radius: 20px;
+
+}
+
+.dede:hover 
+{
+     border-color: red;
+
+}
+
+.dede:active
+{
+    border-color: darkred;
+}

@@ -1,0 +1,54 @@
+body
+{
+     background-color: rgb(255,255,255);
+}
+
+.images
+{
+    border: groove 15px black;
+    float: right;
+
+
+}
+
+*
+{
+
+	font-family: Pixellari ;
+	color: black;
+}
+
+h3{
+
+	font-size: 30px;
+}
+
+h1{
+
+	font-size: 50px;
+
+}
+
+.boutton
+{
+     height: 75px;
+     width: 175px;
+     color: red;
+     background-color: white;
+     border: groove;
+     border-color: black;
+     border-radius: 20px;
+     float: right;
+
+}
+
+.boutton:hover 
+{
+     border-color: red;
+
+}
+
+.boutton:active
+{
+    border-color: darkred;
+}

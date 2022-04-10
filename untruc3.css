@@ -1,0 +1,39 @@
+h1,h2,h3,h4,h5,h6,p,ul,li,button
+{
+    font-family: Pixellari;
+
+}
+
+body
+{
+    background-color: rgb(255,255,255);
+}
+
+h1{
+
+    font-size: 70px;
+}
+
+.boutton
+{
+     height: 75px;
+     width: 175px;
+     color: red;
+     background-color: white;
+     border: groove;
+     border-color: black;
+     border-radius: 20px;
+
+}
+
+.boutton:hover 
+{
+     border-color: red;
+
+}
+
+.boutton:active
+{
+    border-color: darkred;
+}
+
