@@ -1,0 +1,2 @@
+# TDWB
+TDWB / The Dude With a Bow est un jeu d'aventures dans lequel vous incarnez un personnage qui s'appelle "Monosourcilleur", et son objectif est de compléter tous les niveaux de tous les mondes. Son atout, c'est les arcs et les bombes, surtout les bombes (c'est pour cela qu'on le surnomme également "Le Roi de la détonation."). Vous pourrez également acheter plusieurs skins d'équipements et de personnage au magasin "Mécatlau" dirigé par Miguel. Les skins changeront chaque 24h et de nouveaux mondes seront ajoutés tous les 2 j, le nouveau monde contiendra 1OO niveaux.
